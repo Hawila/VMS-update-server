@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "VMS November Update",
-  "apkUrl": "https://yourusername.github.io/android-update-server/app-release.apk",
+  "apkUrl": "https://hawila.github.io/VMS-update-server/app-release.apk",
   "releaseNotes": "• Bug fixes\n• UI improvements\n• Performance optimization"
 }
