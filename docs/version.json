@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "VMS November Update",
+  "versionCode": 2,
+  "versionName": "1.0.1-stable",
   "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/release/app-release.apk",
-  "releaseNotes": "• Bug fixes\n• UI improvements\n• Performance optimization"
+  "releaseNotes": "VMS November Update\n• Bug fixes\n• UI improvements\n• Performance optimization"
 }
