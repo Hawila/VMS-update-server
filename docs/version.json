@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2-stable",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/releaseV1.0.2/app-release.apk",
-  "releaseNotes": "EidSoft December Update\n• Fixed Host Detail Dialog"
+  "versionCode": 4,
+  "versionName": "1.0.3-stable",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/releaseV1.0.3/app-release.apk",
+  "releaseNotes": "EidSoft Hotfix 1.0.3\n• Fixed MiFare Card reading issue"
 }
