@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3-stable",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/releaseV1.0.3/app-release.apk",
-  "releaseNotes": "EidSoft Hotfix 1.0.3\n• Fixed MiFare Card reading issue"
+  "versionCode": 5,
+  "versionName": "1.0.4-stable",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/release/app-release.apk",
+  "releaseNotes": "EidSoft Hotfix 1.0.4\n• Fixed QRscan"
 }
