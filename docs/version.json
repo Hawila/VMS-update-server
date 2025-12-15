@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4-stable",
+  "versionCode": 6,
+  "versionName": "1.0.6-stable",
   "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/release/app-release.apk",
-  "releaseNotes": "EidSoft Hotfix 1.0.4\n• Fixed QRscan"
+  "releaseNotes": "HotFix v1.0.6\n• Added Group Count\n• Added Laptop Info\n• always display vehicle card "
 }
