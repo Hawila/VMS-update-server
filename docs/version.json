@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.0-Alpha",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/Release1.1.0-7/app-release.apk",
-  "releaseNotes": "HotFix v1.1.0\n• Added Crash Logger\n• Added Precheck Summary"
+  "versionCode": 8,
+  "versionName": "1.1.1-Alpha",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/release1.1.1-8/app-release.apk",
+  "releaseNotes": "Fix v1.1.1\n• Fixed crash when opening visitor records with large attachments.\n• Improved attachment handling and application stability.\n• Performance optimizations for visitor details screen."
 }
