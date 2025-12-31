@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.1-Alpha",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/release1.1.1-8/app-release.apk",
-  "releaseNotes": "Fix v1.1.1\n• Fixed crash when opening visitor records with large attachments.\n• Improved attachment handling and application stability.\n• Performance optimizations for visitor details screen."
+  "versionCode": 9,
+  "versionName": "1.1.2-Alpha",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/V1.1.2/EIDSoft-1.1.2-9-release.apk",
+  "releaseNotes": "HotFix v1.1.2\n• Enhanced UI feedback to clearly indicate missing or invalid fields.\n• Improved attachment handling and application stability.\n• Performance optimizations for visitor details screen.\n•Minor UI improvements and stability enhancements"
 }
