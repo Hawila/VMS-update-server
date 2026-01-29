@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.2.0-Alpha",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/1.2.0/EIDSoft-1.2.0-10-release.apk",
-  "releaseNotes": "HotFix v1.2.0\n• Fixed minor bugs.\n• Resolved configuration inconsistencies"
+  "versionCode": 12,
+  "versionName": "1.2.2-Alpha",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/v1.2.2/EIDSoft-1.2.2-12-release.apk",
+  "releaseNotes": "HotFix v1.2.2\n• Server-side validation for access card assignment.\n• UI improvements "
 }
