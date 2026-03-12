@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.2.1-Beta",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/1.2.1/EIDSoft-1.2.1-17.apk",
-  "releaseNotes": "HotFix License Expiration"
+  "versionCode": 19,
+  "versionName": "1.3.2-Alpha",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/1.3.2/EIDSoft-1.3.2-19-release.apk",
+  "releaseNotes": "• Improved smart card validation with server-side verification. \n•	Added support for viewing visitor material gate passes.\n•	New interface displaying the visitor access card and visitor number.\n•	UI improvements and performance enhancements."
 }
