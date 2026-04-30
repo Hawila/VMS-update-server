@@ -2,5 +2,5 @@
   "versionCode": 22,
   "versionName": "1.3.3-Alpha",
   "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/1.3.3-Logger/EIDSoft-1.3.3-22-release.apk",
-  "releaseNotes": "• DCat Visitor updates and stability improvements.\n• Added License Activation flow.\n• Started Log Auditor for client-side debugging."
+  "releaseNotes": "• DCat Visitor updates and stability improvements.\n• Added License Activation flow.\n• Started Log Auditor for client-side debugging.."
 }
