@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.3.4-HotFix",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/v1.3.4-HotFIx/EIDSoft-1.3.4-23-release.apk",
-  "releaseNotes": "• Big attachment memory fix .\n• showing expected card number."
+  "versionCode": 24,
+  "versionName": "1.3.5-Alpha",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/1.3.5/app-release.apk",
+  "releaseNotes": "• Added Evacuation List"
 }
