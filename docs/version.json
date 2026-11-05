@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.3.6-Alpha",
-  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/1.3.6/app-release.apk",
-  "releaseNotes": "• Added Evacuation List"
+  "versionCode": 26,
+  "versionName": "1.4.0-Alpha",
+  "apkUrl": "https://github.com/Hawila/VMS-update-server/releases/download/1.4.0/app-release.apk",
+  "releaseNotes": "• Harden App Security \n • improved App Performance"
 }
